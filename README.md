@@ -4,7 +4,7 @@ A **rule-based web application** that predicts the winner of an IPL match using 
 
 ## 🚀 Live Demo
 Deployed on Hugging Face Spaces  
-👉 [Try the App](https://huggingface.co/spaces/your-username/ipl-predictor)
+👉 [Try the App](https://huggingface.co/spaces/yy1826/IPL-Winner-Predictor)
 
 
 
